@@ -1,12 +1,12 @@
 {
-  "name": "hubot-standup-alarm",
-  "version": "0.0.6",
-  "description": "Hubot script to remind teams to do their standups.",
+  "name": "hubot-randup",
+  "version": "0.1.0",
+  "description": "Hubot script to assist random standups.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-standup-alarm.git"
+    "url": "git@github.com:graphicsforge/hubot-randup.git"
   },
   "keywords": [
     "hubot",
@@ -17,12 +17,8 @@
     "cron": "~1.0.4",
     "underscore": "~1.8.3"
   },
-  "author": "Shaun Donnelly <shaundonnelly@gmail.com>",
+  "author": "Peter Yee <graphicsforge@gmail.com>",
   "licence": "MIT",
-  "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-standup-alarm/issues"
-  },
-  "homepage": "https://github.com/hubot-scripts/hubot-standup-alarm",
-  "devDependencies": {},
+  "homepage": "https://github.com/graphicsforge/hubot-randup",
   "license": "MIT"
 }
